@@ -1,5 +1,9 @@
+
+
 public class Player {
     public Player() {
-        System.exit(0);
+        System.out.println("hgfghj");
     }
 }
+
+ 
